@@ -20,14 +20,23 @@
 
 **ThreatLens — AI-Powered Website Security & Threat Intelligence**
 
-A collaborative hackathon project that analyzes website security and provides AI-assisted threat explanations.
+Collaborative hackathon project that analyzes website security and provides AI-assisted threat explanations.
 
-My contributions as a team member:
+My contributions:
 - AI integration and response validation
 - Fallback analysis handling
-- AI documentation and project README contribution
+- Project documentation and README contribution
 
-[View ThreatLens Repository](https://github.com/koyelshekh/ThreatLens)
+[View ThreatLens](https://github.com/koyelshekh/ThreatLens)
+
+**Human Resource Management System**
+
+Collaborative HRMS project developed with a team. Development was discontinued before completion.
+
+My contribution:
+- Participated in collaborative project development.
+
+[View HRMS Repository](https://github.com/ipsha-adhikary/Human-Resource-Management-System)
 
 ### 🎯 My Goals
 - Strengthen my programming and problem-solving skills.
